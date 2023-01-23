@@ -16,7 +16,14 @@
 
 #### [1.U-Net](./notes/page/U-Net.html)
 
-生物医学图像分割的开山之作，奠定了**ENCODER-DECODER**结构在图像分割的地位
+生物医学图像分割的开山之作，奠定了**ENCODER-DECODER**结构在图像分割的地位，扩展到其他视觉任务
 
 特点：参数少，结构简单，保存信息多，可变样式多
 
+## 代码调试
+
+
+
+## CUDA学习
+
+#### [1.CUDA环境安装](./notes/page/CUDA环境安装.html)
