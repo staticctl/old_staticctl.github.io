@@ -34,3 +34,10 @@
 
 本文主要介绍了下计算机架构的划分和并行计算的基础简单介绍
 
+#### [3.异构计算与CUDA](./notes/page/异构计算与CUDA.html)
+
+介绍异构计算和CUDA概述，完成GPU输出Hello world！
+
+#### [4.CUDA编程模型概述1](./notes/page/CUDA编程模型概述1.html)
+
+介绍CUDA编程模型的简要结构
