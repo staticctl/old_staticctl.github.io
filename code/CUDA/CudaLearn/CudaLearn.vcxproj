@@ -77,7 +77,7 @@
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="hell world.cu" />
+    <CudaCompile Include="add.cu" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="freshman.h" />
